@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rohannikumbh27&label=Profile%20views&color=0e75b6&style=flat" alt="rohannikumbh27" />
+  <img src="https://komarev.com/ghpvc/?username=RohanNikumbh27&label=Profile%20views&color=0e75b6&style=flat" alt="RohanNikumbh27 profile views" />
 </p>
 
 ## 🚀 About Me
