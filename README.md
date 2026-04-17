@@ -40,17 +40,17 @@
 
 ## 📊 GitHub Analytics
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanNikumbh27&show_icons=true&locale=en&theme=tokyonight" alt="RohanNikumbh27 GitHub statistics showing contributions and activity" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanNikumbh27&show_icons=true&locale=en&theme=tokyonight" alt="RohanNikumbh27 GitHub statistics showing contributions and activity" width="450" height="180" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanNikumbh27&theme=tokyonight" alt="RohanNikumbh27 GitHub contribution streak statistics" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanNikumbh27&theme=tokyonight" alt="RohanNikumbh27 GitHub contribution streak statistics" width="450" height="180" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanNikumbh27&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most used programming languages in RohanNikumbh27 repositories" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanNikumbh27&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most used programming languages in RohanNikumbh27 repositories" width="350" height="180" />
 </p>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=RohanNikumbh27&theme=tokyonight&margin-w=15&margin-h=15" alt="Achievement trophies for RohanNikumbh27 GitHub profile" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RohanNikumbh27&theme=tokyonight&margin-w=15&margin-h=15" alt="Achievement trophies for RohanNikumbh27 GitHub profile" width="900" height="200" />
 </p>
