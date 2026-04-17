@@ -41,17 +41,17 @@
 
 ## 📊 GitHub Analytics
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanNikumbh27&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanNikumbh27&show_icons=true&locale=en&theme=tokyonight" alt="RohanNikumbh27 GitHub statistics showing contributions and activity" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanNikumbh27&theme=tokyonight" alt="GitHub streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanNikumbh27&theme=tokyonight" alt="RohanNikumbh27 GitHub contribution streak statistics" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanNikumbh27&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanNikumbh27&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most used programming languages in RohanNikumbh27 repositories" />
 </p>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=RohanNikumbh27&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RohanNikumbh27&theme=tokyonight&margin-w=15&margin-h=15" alt="Achievement trophies for RohanNikumbh27 GitHub profile" />
 </p>
