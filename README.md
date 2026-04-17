@@ -10,15 +10,12 @@
 - 🌱 I’m currently learning advanced backend and cloud technologies
 - 👯 I’m looking to collaborate on impactful software projects
 - 💬 Ask me about web development, APIs, and problem solving
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me on GitHub: **[RohanNikumbh27](https://github.com/RohanNikumbh27)**
 
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://github.com/RohanNikumbh27" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
 
