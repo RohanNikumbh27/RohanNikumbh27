@@ -52,5 +52,5 @@
 </p>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=RohanNikumbh27&theme=tokyonight&margin-w=15&margin-h=15" alt="Achievement trophies for RohanNikumbh27 GitHub profile" style="max-width:100%;height:auto;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RohanNikumbh27&theme=tokyonight&margin-w=15&margin-h=15" alt="Achievement trophies for RohanNikumbh27 GitHub profile" width="100%" />
 </p>
