@@ -10,12 +10,11 @@
 - 🌱 I’m currently learning advanced backend and cloud technologies
 - 👯 I’m looking to collaborate on impactful software projects
 - 💬 Ask me about web development, APIs, and problem solving
-- 📫 Reach me on GitHub: **[RohanNikumbh27](https://github.com/RohanNikumbh27)**
 
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://github.com/RohanNikumbh27" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit RohanNikumbh27 GitHub profile" />
   </a>
 </p>
 
