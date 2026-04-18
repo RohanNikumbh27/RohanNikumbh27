@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohan Nikumbh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RohanNikumbh27&label=Profile%20views&color=0e75b6&style=flat" alt="RohanNikumbh27 profile views" />
-</p>
-
 ## 🚀 About Me
-- 🔭 I’m currently working on full-stack and open-source projects
+- 🔭 I’m currently working on full-stack projects
 - 🌱 I’m currently learning advanced backend and cloud technologies
 - 👯 I’m looking to collaborate on impactful software projects
 - 💬 Ask me about web development, APIs, and problem solving
@@ -40,11 +36,11 @@
 
 ## 📊 GitHub Analytics
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanNikumbh27&show_icons=true&locale=en&theme=tokyonight" alt="RohanNikumbh27 GitHub statistics showing contributions and activity" width="450" height="180" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanNikumbh27&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&locale=en&theme=tokyonight" alt="RohanNikumbh27 GitHub statistics showing total commits and pull requests" width="450" height="180" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohanNikumbh27&theme=tokyonight" alt="RohanNikumbh27 GitHub contribution streak statistics" width="450" height="180" />
+  <img src="https://img.shields.io/github/search/pulls?label=Total%20PRs%20authored&query=author%3ARohanNikumbh27" alt="Total pull requests authored by RohanNikumbh27" />
 </p>
 
 <p>
