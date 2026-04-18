@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on full-stack and open-source projects
+- 🔭 I’m currently working on full-stack projects
 - 🌱 I’m currently learning advanced backend and cloud technologies
 - 👯 I’m looking to collaborate on impactful software projects
 - 💬 Ask me about web development, APIs, and problem solving
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/rohan-nikumbh1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="https://rohannikumbh.me" target="_blank">
+  <a href="https://rohannikumbh.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio website" />
   </a>
 </p>
@@ -87,17 +87,3 @@
 
 ### Additional
 - Best Practices, Adaptability, Teamwork, Self-Learning, Systematic Work, Discipline, Creativity, Empathy
-
-## 📊 GitHub Analytics
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanNikumbh27&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&locale=en&theme=tokyonight&custom_title=GitHub%20Stats%20(All%20time)" alt="RohanNikumbh27 GitHub statistics showing all-time commits and pull requests" width="450" height="180" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanNikumbh27&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most used programming languages in RohanNikumbh27 repositories" width="350" height="180" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Total%20PRs-1000%2B-blue?style=for-the-badge&logo=github" alt="Approximate total pull requests authored by RohanNikumbh27" />
-  <img src="https://img.shields.io/badge/All--time%20Commits-Counting%20every%20push-9cf?style=for-the-badge&logo=github" alt="All-time commits included in statistics" />
-</p>
